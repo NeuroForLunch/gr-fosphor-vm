@@ -45,7 +45,7 @@ struct fosphor
 	struct fosphor_cl_state *cl;
 	struct fosphor_gl_state *gl;
 
-#define FLG_FOSPHOR_USE_CLGL_SHARING	(1<<0)
+#define FLG_FOSPHOR_USE_CLGL_SHARING	(0<<0)
 	int flags;
 
 	float fft_win[FOSPHOR_FFT_LEN];
