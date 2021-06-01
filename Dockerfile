@@ -35,7 +35,7 @@ RUN mkdir -p /src \
   && rm -rf /src/
 
 
-# Install gr-fosphor-vm for intel
+# Install gr-fosphor-vm for generic architectures
 RUN mkdir -p /src \
   && cd /src \
   && git clone https://github.com/NeuroForLunch/gr-fosphor-vm.git --branch maint-3.8-generic \
