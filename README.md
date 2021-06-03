@@ -2,7 +2,7 @@
 
 ### GNU Radio block for RTSA-like spectrum visualization using OpenCL and OpenGL
 
-![](gr-fosphor.png)
+![](https://github.com/NeuroForLunch/gr-fosphor-vm/raw/maint-3.8-generic/gr-fosphor.png)
 
 
 ## Installation Instructions
